@@ -5,15 +5,16 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Bienvenue ! 🧑‍💻
+
+Vous trouverez sur ce site internet un référencement d'outils, logiciels, applications et services numérique pour une utilisation personnel, en entreprise, en association ou dans les collectivités. L'objectif est de créer une base de connaissance en listant les alternatives à chaque outils, comme des alternatives française, européenne, étrangère, open-source, self-hosted, gratuite ou payante.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Pour accéder à la base de connaissance, ➡️ <span style="font-weight: bold">[[INDEX]]</span>.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+Cette base de connaissance est gratuite et open-source, [disponible sur GitHub](https://github.com/ORIATEC/awesome-tools).
+Je vous invite à proposer vos modifications et ajouts en pull request.
 
 <style>
   .wrapper {
