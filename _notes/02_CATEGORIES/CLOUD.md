@@ -7,4 +7,5 @@
 - [[pCloud]]
 - [[OwnCloud]]
 - [[NextCloud]]
+- [[Seafile]]
 

@@ -14,9 +14,16 @@
 - [[Matermost]]
 - [[Slack]]
 - [[Rocket.chat]]
+- [[Discord]]
 
 #email
 - [[Outlook]]
 - [[Gmail]]
 - [[Spark]]
 - [[YahooMail]]
+
+#social-network
+- [[Facebook]]
+- [[Linkedin]]
+- [[Twitter]]
+- [[Mastodon]]
