@@ -15,6 +15,7 @@ Je vous invite à proposer vos modifications et ajouts en pull request.
 ## Catégories
 - [[DOCUMENTATION]]
 - [[E-COMMERCE]]
+- [[COLLECTIVITE]]
 - [[COMMUNICATION]]
 - [[COMMUNITY]]
 - [[SECURITY]]
