@@ -1,6 +1,6 @@
 # COMMUNICATION
 
-## #visioconference 
+#visioconference 
 - [[Zoom]]
 - [[Jitsi]]
 - [[Google Meet]]
@@ -8,10 +8,15 @@
 - [[KMeet]]
 - [[WhereBy]]
 
-## #messaging
+#messaging
 - [[WhatsApp]]
 - [[Telegram]]
 - [[Matermost]]
 - [[Slack]]
+- [[Rocket.chat]]
 
-## #email
+#email
+- [[Outlook]]
+- [[Gmail]]
+- [[Spark]]
+- [[YahooMail]]

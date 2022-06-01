@@ -29,6 +29,7 @@ Je vous invite à proposer vos modifications et ajouts en pull request.
 - [[BROSWER]]
 - [[ORGANISATION]]
 - [[MARKETING]]
+- [[COLLECTIVITE]]
 
 <style>
   .wrapper {
