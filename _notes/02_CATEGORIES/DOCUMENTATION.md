@@ -7,4 +7,3 @@
 - [[OnlyOffice]]
 - [[Office Online]]
 - [[HedgeDoc]]
-- 

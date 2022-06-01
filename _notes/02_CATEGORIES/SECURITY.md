@@ -11,4 +11,7 @@
 
 #2fa
 - [[Google Authenticator]]
-- 
+
+#auth
+- [[Auth0]]
+- [[Osso]]

@@ -1,5 +1,4 @@
 #container
-
 - [[Docker]]
 - [[Dokku]]
 - [[Heroku]]
@@ -18,3 +17,15 @@
 #hebergement
 - [[cPanel]]
 - [[Vesta]]
+
+#web-deploiement
+- [[Netlify]]
+- [[StaticDeploy]]
+
+#library
+- [[npm]]
+- [[composer]]
+
+#log
+- [[Sentry]]
+- [[LogRocket]]

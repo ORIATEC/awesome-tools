@@ -2,3 +2,4 @@
 - [[Odoo]]
 - [[Prod-Up]]
 - [[Clickup]]
+- [[Dolibarr]]

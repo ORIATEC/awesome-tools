@@ -15,6 +15,8 @@
 - [[Slack]]
 - [[Rocket.chat]]
 - [[Discord]]
+- [[Zulip]]
+- [[Element]]
 
 #email
 - [[Outlook]]
@@ -22,8 +24,26 @@
 - [[Spark]]
 - [[YahooMail]]
 
+#newsletter 
+- [[Sendinblue]]
+- [[MailTrain]]
+- [[MailerLite]]
+
 #social-network
 - [[Facebook]]
 - [[Linkedin]]
 - [[Twitter]]
 - [[Mastodon]]
+
+#images
+- [[Instagram]]
+- [[Pixelfed]]
+
+#video
+- [[Youtube]]
+- [[Peertube]]
+- [[NodeTube]]
+
+#blog
+- [[Medium]]
+- [[Sigle]]

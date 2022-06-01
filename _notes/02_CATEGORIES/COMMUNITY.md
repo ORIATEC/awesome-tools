@@ -2,3 +2,4 @@
 
 - [[Discourse]]
 - [[Circle]]
+- [[Vanilla]]

@@ -25,7 +25,6 @@ Je vous invite à proposer vos modifications et ajouts en pull request.
 - [[DATA]]
 - [[AUTOMATION]]
 - [[CRM]]
-- [[PROJETCS]]
 - [[DESIGN]]
 - [[BROSWER]]
 - [[ORGANISATION]]
